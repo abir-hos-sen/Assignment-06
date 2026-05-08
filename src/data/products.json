@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Advanced AI writing assistant with 100+ templates and real-time suggestions",
+    "price": 29,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["100+ templates", "Real-time suggestions", "Grammar perfection", "Export to PDF"],
+    "icon": "writing.png"
+  },
+  {
+    "id": 2,
+    "name": "Design Template Pack",
+    "description": "Premium Figma & Adobe XD templates for modern web and app design",
+    "price": 49,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "bestseller",
+    "features": ["500+ components", "Dark & Light mode", "Fully customizable", "Commercial license"],
+    "icon": "design-tool.png"
+  },
+  {
+    "id": 3,
+    "name": "Premium Stock Assets",
+    "description": "High-quality stock photos, illustrations and icons pack",
+    "price": 19,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["10,000+ assets", "Commercial use", "Regular updates", "4K resolution"],
+    "icon": "portfolio.png"
+  },
+  {
+    "id": 4,
+    "name": "Automation Toolkit",
+    "description": "Automate repetitive tasks with powerful no-code workflows",
+    "price": 15,
+    "period": "monthly",
+    "tag": "",
+    "tagType": "",
+    "features": ["500+ integrations", "Drag & drop builder", "Schedule tasks", "Analytics dashboard"],
+    "icon": "operation.png"
+  },
+  {
+    "id": 5,
+    "name": "Resume Builder Pro",
+    "description": "Create ATS-optimized resumes in minutes with AI assistance",
+    "price": 12,
+    "period": "one-time",
+    "tag": "",
+    "tagType": "",
+    "features": ["ATS optimization", "100+ templates", "LinkedIn integration", "PDF & DOCX export"],
+    "icon": "package.png"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Content Kit",
+    "description": "Complete content calendar and templates for all major platforms",
+    "price": 25,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Monthly content ideas", "Canva templates", "Caption generator", "Hashtag research"],
+    "icon": "social-media.png"
+  }
+]
