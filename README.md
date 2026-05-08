@@ -109,5 +109,5 @@ src/
 <p align="center">
   <b>Digitools</b> - Empowering Digital Creators Everywhere.
   <br>
-  Developed with  by Abir Hossain
+  Developed with ❤️ by Abir Hossain
 </p>
