@@ -92,19 +92,6 @@ Digitools is a cutting-edge e-commerce platform built with **React** and **Tailw
    npm run dev
    ```
 
----
-
-## 📂 Project Structure
-```text
-src/
-├── components/     # Reusable UI components (Navbar, Footer, etc.)
-├── data/           # JSON data for products
-├── pages/          # Main page components (Home, CartPage)
-├── App.jsx         # Main application logic & routing
-└── main.jsx        # Entry point
-```
-
----
 
 <p align="center">
   <b>Digitools</b> - Empowering Digital Creators Everywhere.
